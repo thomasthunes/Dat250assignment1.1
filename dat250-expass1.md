@@ -10,7 +10,7 @@
 <li>I also struggled a bit with pushing my local image to dockerhub, because the instructions provided did not work, instead, I used the following commands: <p><b>"docker tag unit-converter thomasthunes/dat250:unit-converter"</b> and <p><b>"docker push thomasthunes/dat250:unit-converter"</b>, which solved my problems. </li>
 
 <h3>Any pending issues with this assignment which you did not manage to solve.</h3>
-<li><b>No</b></li>
+<li><b>No</b></li> 
 
 <h3>Please add the URL to your published container on DockerHub in the report.</h3>
 <li>https://hub.docker.com/r/thomasthunes/dat250/tags</li>
