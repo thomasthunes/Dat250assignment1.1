@@ -9,22 +9,22 @@
 
 - Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
 - <b>INSERT DOCUMENTS</b>
-- <b>Insert many</b>
+<b>Insert many</b>
 ![Screenshot of database schema](./insertMany.png?raw=true)
-- <b>find all objects</b>
+<b>find all objects</b>
 ![Screenshot of database schema](./findAllObjects.png?raw=true)
 
 - <b>QUERY DOCUMENTS</b>
-- <b>equality conditions</b>
+<b>equality conditions</b>
 ![Screenshot of database schema](./equality_condition.png?raw=true)
-- <b>and or</b>
+<b>and or</b>
 ![Screenshot of database schema](./and_or.png?raw=true)
 
 - <b>UPDATE DOCUMENTS</b>
-- <b>Replace one</b>
+<b>Replace one</b>
 ![Screenshot of database schema](./replace_one.png?raw=true)
 <br>
-- <b>Update One</b>
+<b>Update One</b>
 ![Screenshot of database schema](./updateOne.png?raw=true)
 
 - <b>REMOVE DOCUMENTS</b>
