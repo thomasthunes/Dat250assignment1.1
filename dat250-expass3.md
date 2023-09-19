@@ -1,6 +1,6 @@
 # Expass 3
 ## Technical problems that you encountered during installation and use of MongoDB and how you resolved
-- I had major problems installing MongoDB, I belive that my problems occured due to mose loss of adminisrator rights on my work computer, which is also my school computer, I resolved by installing a MongoDB Community Docker container instead.
+- I had major problems installing MongoDB, I belive that my problems occured due to some loss of adminisrator rights on my work computer, which is also my school computer, I resolved this by installing a MongoDB Community Docker container instead.
 
 ## Screenshots for:
 
