@@ -21,13 +21,21 @@
 ![Screenshot of database schema](./and_or.png?raw=true)
 
 - <b>UPDATE DOCUMENTS</b>
-![Screenshot of database schema](./checksum.png?raw=true)
+- <b>Replace one</b>
+![Screenshot of database schema](./replace_one.png?raw=true)
+<br>
+- <b>Update One</b>
+![Screenshot of database schema](./updateOne.png?raw=true)
 
 - <b>REMOVE DOCUMENTS</b>
-![Screenshot of database schema](./checksum.png?raw=true)
+<b>Delete one</b>
+![Screenshot of database schema](./delete_one.png?raw=true)
+<br>
+<b>Delete all</b>
+![Screenshot of database schema](./delete_all.png?raw=true)
 
 - <b>BULK WRITE OPERATIONS</b>
-![Screenshot of database schema](./checksum.png?raw=true)
+![Screenshot of database schema](./bulk_write.png?raw=true)
 
 
 - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
