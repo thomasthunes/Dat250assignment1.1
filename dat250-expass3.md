@@ -5,7 +5,7 @@
 
 - The correct validation of the installation package (https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/)
 <b>Screenshot:</b>
-![Screenshot of database schema](./Checksum.png?raw=true)
+![Screenshot of database schema](./checksum.png?raw=true)
 
 - Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
 
