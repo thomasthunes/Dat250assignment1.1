@@ -8,6 +8,22 @@
 ![Screenshot of database schema](./checksum.png?raw=true)
 
 - Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
+- <b>INSERT DOCUMENTS</b>
+![Screenshot of database schema](./insertMany.png?raw=true)
+![Screenshot of database schema](./findAllObjects.png?raw=true)
+
+- <b>QUERY DOCUMENTS</b>
+![Screenshot of database schema](./checksum.png?raw=true)
+
+- <b>UPDATE DOCUMENTS</b>
+![Screenshot of database schema](./checksum.png?raw=true)
+
+- <b>REMOVE DOCUMENTS</b>
+![Screenshot of database schema](./checksum.png?raw=true)
+
+- <b>BULK WRITE OPERATIONS</b>
+![Screenshot of database schema](./checksum.png?raw=true)
+
 
 - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
