@@ -25,14 +25,17 @@
 ![Screenshot of database schema](./replace_one.png?raw=true)
 <br>
 <b>Update One</b>
+<br>
 
 ![Screenshot of database schema](./updateOne.png?raw=true)
 
 - <b>REMOVE DOCUMENTS</b>
 <b>Delete one</b>
 <br>
+
 ![Screenshot of database schema](./delete_one.png?raw=true)
 <br>
+
 <b>Delete all</b>
 ![Screenshot of database schema](./delete_all.png?raw=true)
 
