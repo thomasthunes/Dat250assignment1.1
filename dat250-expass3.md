@@ -1,4 +1,5 @@
 # Expass 3
+## <b>Experiment 1</b>
 ## Technical problems that you encountered during installation and use of MongoDB and how you resolved
 - I had major problems installing MongoDB, I belive that my problems occured due to some loss of adminisrator rights on my work computer, which is also my school computer, I resolved this by installing a MongoDB Community Docker container instead.
 
@@ -43,7 +44,9 @@
 - <b>BULK WRITE OPERATIONS</b>
 ![Screenshot of database schema](./bulk_write.png?raw=true)
 
-
+<br>
+## <b>Experiment 2</b>
+<b>Screenshots for:</b><br>
 - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
 ## Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
