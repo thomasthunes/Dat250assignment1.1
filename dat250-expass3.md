@@ -51,7 +51,7 @@
 - Experiment 2 example:<br>
 ![Screenshot of database schema](./map_function1.png?raw=true)
 <br>
-![Screenshot of database schema](./result&reduce.png?raw=true)
+![Screenshot of database schema](./"result&reduce.png"?raw=true)
 <br>
 
 -  working and the additional Map-reduce operation (and its result) developed by each of you.
