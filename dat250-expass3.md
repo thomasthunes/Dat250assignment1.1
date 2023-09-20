@@ -48,7 +48,14 @@
 
 ## <b>Experiment 2</b>
 <b>Screenshots for:</b><br>
-- Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
+- Experiment 2 example:<br>
+![Screenshot of database schema](./map_function1.png?raw=true)
+<br>
+![Screenshot of database schema](./result&reduce.png?raw=true)
+<br>
+
+-  working and the additional Map-reduce operation (and its result) developed by each of you.
+![Screenshot of database schema](./my_own.png?raw=true)
 
 ## Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
 
