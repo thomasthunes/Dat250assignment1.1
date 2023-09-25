@@ -9,4 +9,4 @@
 https://github.com/thomasthunes/dat250-spring-counters-todos
 
 **- any pending issues with this assignment that you did not manage to solve**
-no.
+- no.
