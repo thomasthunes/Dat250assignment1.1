@@ -1,5 +1,5 @@
 ** technical problems that you encountered during the completion of the tutorial
-- no technical issues
+- Had to make some changes to the api
 
 ** a link to your code for experiments 1-2 above
 - https://github.com/thomasthunes/dat250-spring-counters-todos 
